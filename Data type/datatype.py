@@ -11,3 +11,11 @@
 #---------------------------
 #       String
 #       boolean-----(True/False)
+
+#int----->float
+#num=int(number)
+#print(float(num))
+#like that all
+
+#to know type of variable
+##print(type(num))
