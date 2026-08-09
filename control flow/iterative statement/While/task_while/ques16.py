@@ -1,9 +1,10 @@
-#17. Cricket Runs
-#Enter runs scored ball by ball until 30 balls are completed. Display total runs
-total_runs = 0
-balls=1
-while balls<=30:
-    runs=int(input("Enter the runs scored:"))
-    total_runs+=runs
-    balls+=1
-print("Total runs=",total_runs)
+
+#16. Shopping Discount
+#Enter product prices until 0 is entered. Calculate the total amount
+total=0
+price=int(input("Enter the product price:"))
+while price!=0:
+    total+=price
+    price=int(input("Enter the product price:"))
+print("Total amount=",total)
+
