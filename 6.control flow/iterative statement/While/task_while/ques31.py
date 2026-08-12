@@ -6,3 +6,7 @@
 #Exit
 #Continue until the user selects Exit
 
+choice=int(input("1.Deposit\n2.withdraw\n3.check balance\n4.Exit\nEnter the choice:"))
+while choice!=4:
+    choice=int(input("1.Deposit\n2.withdraw\n3.check balance\n4.Exit\nEnter the choice:"))
+
