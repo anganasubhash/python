@@ -1,4 +1,4 @@
 n=5
-if n>0:
-    print("its a positive number")
+if n>0:#condition 
+    print("its a positive number")#statement
     

@@ -6,15 +6,24 @@
 #conditional statement-----(Decision making)
 #iterative statement/looping-----(while,for)
 #jump statement------(break,continue,pass)
-
+#1.conditional statement
+#----------------
+#1.IF
+#--------------------
 # syntax
 #----------
 #if condition:
 #         statement
 #
-#decision making
+#IF-ELSE
 #----------------
-
+#syntax
+#-------------
+#if condition :
+#      statement#is if condition is true this will work 
+                # otherwise the else part work
+#else :
+#      statement
 
 
 
