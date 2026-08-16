@@ -16,7 +16,7 @@
 #    statement
 # updation
 i=0 # intilization
-while i<=5:    #condition
+while i<5:    #condition
     print("Hello") #statement
     i+=1   #updation
 
