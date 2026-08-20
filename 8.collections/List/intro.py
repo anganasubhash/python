@@ -7,4 +7,4 @@ print(lst)
 
 
 lst=[]#Empty list
-lst1=list()#Function
+lst1=list()#Function of list----- used to convert another collection to list
