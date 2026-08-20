@@ -1,5 +1,5 @@
 #Homogenous / Heterogenous
-#array=[10,20]-----only one data type----Homogenous
+#array=[10,20]----- same as list only one data type----Homogenous
 #[10,"Hello",True]-----multiple data type----Heterogenous
   
 
