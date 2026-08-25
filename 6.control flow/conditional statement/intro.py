@@ -33,9 +33,9 @@
 #syntax
 #if  condition:
 #            statement
-#elief condition:
+#elif condition:
 #               statement
-#elief condition:
+#elif condition:
 #             statement
 #else :
 #      statement
