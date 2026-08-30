@@ -9,7 +9,7 @@
 #properties
 #------------------
 #How to define?
-#Homogenous/Heterogenus
+#Homogenous/Heterogenus---->different data type can print
 #duplicate /allowed or not
-#preserved/unpreserved
+#preserved/unpreserved------>it has index print same as we given
 #mutable/unmutable

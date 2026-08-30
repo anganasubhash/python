@@ -1,4 +1,4 @@
-##How to define-----------[]
+##How to define-----------[]---->square bracket
 #list is to store  multiple elements
 #in variable ---only one value can be stored so introduction of python collections
 lst=[10,40,80,120]
