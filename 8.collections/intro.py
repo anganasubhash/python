@@ -13,3 +13,9 @@
 #duplicate /allowed or not
 #preserved/unpreserved------>it has index print same as we given
 #mutable/unmutable
+
+
+#list---[]              hetro    duplicate allowed        preserved      mutable
+#tuple --()             hetro    duplicate allowed        preserved      unmutable
+#set-----set()          hetro     no duplicate            unperservd     mutable
+#dictonary-{key:value}  hetro    key---not,value--alllow   perserved      mutable
