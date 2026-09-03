@@ -20,3 +20,14 @@
 
 #Data------pdf,text,
 
+
+
+#always look the path take that exact folder
+#while copy path
+#convert \-forward slash to  /-->backwardslash
+#or
+#double forward--->\\
+#or
+#r"copy path"
+
+
