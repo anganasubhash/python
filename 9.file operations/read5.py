@@ -24,8 +24,8 @@ for i in file2:
     print(data)
 for j in data:
     if j not in dic:
-        dic[i]=1
+        dic[j]=1
     else:
-        dic[i]+=1
+        dic[j]+=1
 print(dic)"""
 
