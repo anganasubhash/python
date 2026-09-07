@@ -9,4 +9,4 @@ for i in file3:
         fruits[word]+=1
 print(fruits)
 for key,value in fruits.items():
-    print(key,value)
+    print(key,":",value)

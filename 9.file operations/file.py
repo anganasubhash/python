@@ -30,4 +30,21 @@
 #or
 #r"copy path"
 
+#READ
+#-----------
+#file2=open("file name","r")
+#for i in file2:
+#   print(i)
+#add to list
+
+
+
+
+
+
+
+#WRITE
+#------------
+#f1=open("file name","w")
+#f1.write("enter what to write\n")
 
