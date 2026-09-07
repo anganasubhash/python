@@ -9,14 +9,13 @@ for i in file2:
     if age>"22":
         print(data[:4])
     if age<"23":
-        print(data[:2],data[4])
+        print(data[4])
 
     place=data[4]
     if place=="Ernakulam":
-        print(data[:4])
+        print(data[:5])
     if place=="Thrissur" and age>"23":
         print(data[0],data[2],data[4])
-
 
 
 
