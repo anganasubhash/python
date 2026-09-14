@@ -4,7 +4,7 @@
 #•  Use a loop to find the highest mark.
 #•  Count students scoring above 75.
 #•  Display marks in ascending order
-def analyze_mark():
+def analyze_mark(mark):
 
      highest_mark=0
      count_above75=0
