@@ -4,7 +4,7 @@
 
 #class---Group of object,blue print of object(Basic plan/idea)
 #     eg:house plan
-#object----real one entity
+#object----real world entity
 #      eg:house
 #reference-----operations,specification
 #       eg:furniture,painting
