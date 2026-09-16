@@ -34,7 +34,7 @@
 #class
 #    #Static variable ---- common variable
 #    #methods
-#    #self-->instance key word (can use in any function)
+#    #self-->instance key word (can use in any function)----can use in many function
 #    # variable to instance variable-----self.name=name
 #object
 #reference
@@ -68,6 +68,7 @@
 #----------------
      #child class have the same property as parent class along
      #with its on property
+     #one class uses other class property
      #car----parentclass
      #brand----bmw
 """class animal:
@@ -77,6 +78,6 @@
         #sound"""
 #Abstraction
 #----------------
-#  hide the unnecesary details,show
+#  hide the unnecessary details,show details needed
 
     
