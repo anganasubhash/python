@@ -1,0 +1,5 @@
+#1 to 50
+#(even,square)
+#(odd,cube)
+lst=[(i,i**2) if i%2==0 else (i,i**3) for i in range(1,50)]
+print(lst)
