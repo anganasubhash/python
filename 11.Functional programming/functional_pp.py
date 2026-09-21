@@ -17,6 +17,8 @@ add(20,23)"""
 #Anonymous function----No name function
 #variable=lambda argument:operations
 #print(variable(inputs))
+#if number odd/even
+#var=lambda x:"statement" if x%2==0 else "statement"
 
 #FILTER_MAP(convert)
 #---------------
@@ -27,6 +29,7 @@ add(20,23)"""
 
 #filter
 #[1,2,3,4,5,6,7,8,9,10]=====>[2,4,6,8]---taken even one
+#to filter out some
 
 
 
@@ -77,5 +80,8 @@ print(lst)"""
 #no elif
 #var=[print1 if cond1 else print2 range]
 #var=[print1 if cond1 else print2 if cond2 else print3 if cond3 range]
-
+"""lst=[(i,"Poor") if i<=40 else (i,"Average") if 41<=i<=60 else(i,"Excellent")  for i in range(1,101)]
+print(lst)"""
+"""lst=[(i,"Poor") if i<=40 else (i,"Average") if 41<=i<=60 else(i,"Excellent")  for i in range(1,101)]
+print(lst)"""
 
