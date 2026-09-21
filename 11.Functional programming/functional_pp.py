@@ -82,6 +82,10 @@ print(lst)"""
 #var=[print1 if cond1 else print2 if cond2 else print3 if cond3 range]
 """lst=[(i,"Poor") if i<=40 else (i,"Average") if 41<=i<=60 else(i,"Excellent")  for i in range(1,101)]
 print(lst)"""
-"""lst=[(i,"Poor") if i<=40 else (i,"Average") if 41<=i<=60 else(i,"Excellent")  for i in range(1,101)]
-print(lst)"""
 
+"""lst=[(i,i**2) if i%2==0 else (i,i**3) for i in range(1,50)]
+print(lst)"""
+#i.isdigit()
+#i.isnumeric()------>used to check if i is a number
+#i.alpha()------> used to check aplhabet
+#
