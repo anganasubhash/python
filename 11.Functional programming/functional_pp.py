@@ -88,4 +88,5 @@ print(lst)"""
 #i.isdigit()
 #i.isnumeric()------>used to check if i is a number
 #i.alpha()------> used to check aplhabet
-#
+#i.capitalize()---->used to make ist letter capital
+#i.upper()------>make every letter capital
