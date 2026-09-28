@@ -1,0 +1,5 @@
+subjects = ("Maths", "Physics", "Chemistry")
+subjects_list = list(subjects)
+subjects_list.append("Computer Science")
+subjects_list.append("Biology")
+print(subjects_list)
