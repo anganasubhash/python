@@ -1,0 +1,8 @@
+attendance = set()
+attendance.add("S101")
+attendance.add("S102")
+attendance.add("S103")
+attendance.add("S101")
+attendance.add("S104")
+attendance.add("S102")
+print("Final attendance:", attendance)
